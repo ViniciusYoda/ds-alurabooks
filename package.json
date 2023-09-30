@@ -36,7 +36,7 @@
     "trailingComma": "es5"
   },
   "name": "ds-alurabooks-base-vyoda",
-  "author": "vinicios yoda",
+  "author": "vinícius yoda",
   "module": "dist/ds-alurabooks-base.esm.js",
   "size-limit": [
     {
